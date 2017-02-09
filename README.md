@@ -1,2 +1,2 @@
-# FP05p1AluLNEG
+# FP05p1AluEGLN
 practica 1
